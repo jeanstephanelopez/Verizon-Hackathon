@@ -1,1 +1,1 @@
-# how-to-clone
+Verizon-Hackathon
